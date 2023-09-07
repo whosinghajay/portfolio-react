@@ -1,0 +1,39 @@
+{
+    "projects": [
+      {
+        "date": "07/09/2023",
+        "title": "PORTFOLIO",
+        "description": "Discover my skills and projects on my React-based portfolio website, where innovation and creativity come to life.",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      },
+      {
+        "date": "06/09/2023",
+        "title": "REACT CART",
+        "description":"Experience seamless shopping with our React-based demo cart page, showcasing intuitive design and functionality for a delightful user experience.",
+        "url": "https://shopping-cart-page-using-react.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "05/09/2023",
+        "title": "XCrypto",
+        "description":"Explore the world of cryptocurrency with our React-powered website, offering real-time data, insights, and a user-friendly experience.",
+        "url": "https://xcrypto-bay.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+      {
+        "date": "03/09/2023",
+        "title": "VIDEO HUB",
+        "description": "Explore an immersive world of videos on my React-powered hub, where entertainment and discovery meet in one dynamic platform.",
+        "url": "https://react-project2-dusky.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        "date": "26/08/2023",
+        "title": "Todo-List WebApp",
+        "description": "This application allows users to manage tasks effectively by creating, updating, and marking tasks as completed.",
+        "url": "https://react-nodejs-todo-whosinghajay.vercel.app/",
+        "imgSrc": "https://whosinghajay.github.io/portfolioajay/image/images/todo-2103511_1280.webp"
+      }
+    ]
+  }
